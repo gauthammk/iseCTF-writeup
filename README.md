@@ -1,19 +1,19 @@
-# iseCTF_2019
+# iseCTF-2019
 
->Freebie:
+Freebie:
 >This question is to get used to the flag format
 >Flag : iseCTF{e4sy_doe5_It}
 
->Weird website: 
+Weird website: 
 >Change the user agent on the browser to ise
 >Flag : iseCTF{bRoW5E_DrOws3}
 
->Mad Bots: 
+Mad Bots: 
 >Refers to the robots.txt file on the server
 >Navigate to url/robots.txt and then to the disallowed page
 >Flag :  iseCTF{The_b07s_Are_COM1ng}
 
->Dah...dit... : 
+Dah...dit... : 
 >Write a script to change all the dahs to "-" and the dits to "."
 >Translate the resulting morse code
 >Flag : iseCTF{secretive}
