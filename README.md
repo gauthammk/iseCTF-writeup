@@ -32,7 +32,7 @@ Reactors
 
 Wicked postman 
 >It is clear that a post request is to be sent to the server with the parameter flag="real"
->Use cURL : curl -d "flag=real" -X POST https://isctf.000webhostapp.com/Wicked_Postman.php
+>Use cURL : curl -d "flag=real" -X POST url
 >
 >Flag : iseCTF{Pos7_R34L1ty}
 
